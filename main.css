@@ -1,6 +1,9 @@
 html{
   background-color:black;
 }
+.wrap a{
+color:black;
+}
 h2{
   color:silver;
   text-align: center;
